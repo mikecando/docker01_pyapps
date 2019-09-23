@@ -1,0 +1,3 @@
+Referencing this article
+https://medium.com/better-programming/lets-create-an-instagram-bot-to-show-you-the-power-of-selenium-349d7a6744f7
+

@@ -1,0 +1,14 @@
+Develop and maintain automated test scripts
+Python
+Python IDE: PyCharm
+Sample test project on Github
+The same test structure I have used for numerous projects, including test helper, utils and integration (build tasks) with BuildWise.
+Continuous Testing - Real DevOps
+BuildWise 1.0.3 Server - free 
+Execute your Selenium tests easier, faster and more reliable. (Requires Ruby and MySQL database).
+BuildWise Agent 1.0 
+Running selenium tests in parallel. Free for one-hour use.
+BuildWise standalone 1.0 - all-in-one installer for Windows
+Recommend for trial. Bundled Git, Sqlite3 database and BuildWise, with sample projects. Double click install to c:\agileway\buildwise-standalone(default)
+ Recipe test scripts: Download     Test site and web pages: Download
+Unzip the test web pages to the same folder where your test scripts under. For example, if recipes test scripts dir is C:\temp\selenium-recipes-python, the test site page folders shall be c:\temp\site
